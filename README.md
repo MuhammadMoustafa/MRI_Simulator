@@ -5,8 +5,8 @@
 ### Systems and Biomedical Engineering Department
 
 
-#### MRI Pulse sequence simulator GUI using MATLAB 2018
-Medical equipment(MRI) class project created by:
+#### MRI Pulse Sequence Simulator GUI using MATLAB 2018
+Medical Equipment (MRI) class project created by:
 - Mahmoud Fathy
 - Mohsen Ahmed
 - Muhammad Moustafa
