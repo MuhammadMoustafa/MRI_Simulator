@@ -32,6 +32,9 @@ Each Seuquence can be modified form its xml file.
 The slow parts of the code has been accelerated by converting it to C code using matlab mex "same as Coder in Matlab 2022"
 
 #### Samples
+- None+GRE
 ![None+GRE](samples/none_gre.png?raw=true)
+- T2Prep+SSFP
 ![T2Prep+SSFP](samples/t2prep_ssfp.png?raw=true)
+- Tagging
 ![Tagging](samples/tagging.png?raw=true)
