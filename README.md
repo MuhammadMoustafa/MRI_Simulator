@@ -13,9 +13,9 @@ Medical equipment(MRI) class project created by:
 - Omar Mahmoud
 
 ### Submitted to:
-- Dr Tamer Basha
+- Dr. Tamer Basha
 
-Applying the different pulse sequence algorithm on the Shepp-Logan phantom.
+Applying the different pulse sequence algorithms on the Shepp-Logan phantom.
 
 #### Sequences used are:
 - GRE 
@@ -33,5 +33,6 @@ The slow parts of the code has been accelerated by converting it to C code using
 
 #### Samples
 ![](MRI_Simulator/samples/None%2BGRE.png?raw=true "None+Gre"])
-![](MRI_Simulator/samples/T2Prep%2BSSFP.png])
+![](MRI_Simulator/samples/none_gre.jpg])
+![](MRI_Simulator/samples/none_gre.png])
 ![](MRI_Simulator/samples/Tagging.png])
