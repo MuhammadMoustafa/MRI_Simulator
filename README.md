@@ -32,10 +32,6 @@ Each Seuquence can be modified form its xml file.
 The slow parts of the code has been accelerated by converting it to C code using matlab mex "same as Coder in Matlab 2022"
 
 #### Samples
-![](samples/none_gre.jpg?raw=true "None+Gre")
-![](samples/none_gre.png?raw=true "None+Gre")
-![](samples/none_gre.jpg])
-![](samples/none_gre.png])
-![](samples/Tagging.png])
-![](https://github.com/MuhammadMoustafa/MRI_Simulator/blob/main/samples/tagging.png)
-![](https://github.com/MuhammadMoustafa/MRI_Simulator/blob/main/samples/tagging.jpg)
+![None+GRE](samples/none_gre.png?raw=true)
+![T2Prep+SSFP](samples/t2prep_ssfp.png?raw=true)
+![Tagging](samples/tagging.png?raw=true)
