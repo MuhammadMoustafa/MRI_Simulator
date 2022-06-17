@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sequence Name=" ">
+    <Time TE=" " TR=" "/>
+	
+    <RFPulse Angle=" " Axis=" "/>
+    <GRY Flag=" "/>
+    <GRX Flag=" "/>
+        
+    <Main Repeat=" "> 
+        <RFSeq Angle=" " Axis=" "/>
+        <GRY Flag=" "/>
+        <Decay_recovery T=" "/>
+        <!--
+        <GRY Name="Gy" Direction="Z" From="-180" To="180"/>
+        <GRX Name="Gx" Direction="Z" From="-180" To="-180"/>
+        -->
+        <GRYSpoiler Flag=" "/>
+        <GRXSpoiler Flag=" "/>
+    </Main>
+    <Decay_recovery T=" "/>
+
+</Sequence>

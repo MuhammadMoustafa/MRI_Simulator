@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sequence Name="GRE">
+    <Time TE="2" TR="1000"/>
+	<RFPulse Angle="pi/2" Axis="Y"/>
+    <Main Repeat="1"> 
+        <RFSeq Angle="0" Axis="X"/>
+        <GRYSpoiler Flag="0"/>
+        <GRXSpoiler Flag="0"/>
+    </Main>
+</Sequence>

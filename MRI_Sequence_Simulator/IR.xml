@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sequence Name="IR">
+    <Time Time="log(2)*1300"/>
+    <RFPulse1 Angle="pi" Axis="Y"/>
+    <Tagging Flag="0"/>
+    <GRX Flag="0"/>
+    <GRY Flag="0"/>
+    <Decay Flag="1"/>
+    <RFPulse2 Angle="0" Axis="Y"/>
+</Sequence>

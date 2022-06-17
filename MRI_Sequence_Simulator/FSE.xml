@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sequence Name="FSE">
+    <Time TE="2" TR="1000"/>
+	<RFPulse Angle="pi/2" Axis="Y"/> 
+    <Main Repeat="3"> 
+        <RFSeq Angle="pi" Axis="X"/>
+        <GRYSpoiler Flag="1"/>
+        <GRXSpoiler Flag="0"/>
+    </Main>
+</Sequence>

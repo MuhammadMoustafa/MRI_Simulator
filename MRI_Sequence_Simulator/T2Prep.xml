@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sequence Name="T2Prep">
+    <Time Time="100"/>
+    <RFPulse1 Angle="pi/2" Axis="Y"/>
+    <Tagging Flag="0"/>
+    <GRX Flag="0"/>
+    <GRY Flag="0"/>
+    <Decay Flag="1"/>
+    <RFPulse2 Angle="-pi/2" Axis="Y"/>
+</Sequence>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sequence Name="Tagging">
+    <Time Time="50"/>
+    <RFPulse1 Angle="0" Axis="Y"/>
+    <Tagging Flag="1"/>
+    <GRX Flag="0"/>
+    <GRY Flag="0"/>
+    <Decay Flag="0"/>
+    <RFPulse2 Angle="0" Axis="Y"/>
+</Sequence>

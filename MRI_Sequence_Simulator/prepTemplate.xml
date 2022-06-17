@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sequence Name=" ">
+    <Time Time=" "/>
+    <RFPulse1 Angle=" " Axis=" "/>
+    <GRX Flag=" "/>
+    <GRY Flag=" "/>
+    <Decay Flag=""/>
+    <RFPulse2 Angle=" " Axis=" "/>
+</Sequence>
