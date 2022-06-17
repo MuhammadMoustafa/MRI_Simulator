@@ -1,4 +1,4 @@
-# MRI_Sequence_Simulator
+# MRI_Simulator
 
 ### Cairo university
 ### Faculty of Engineering
